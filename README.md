@@ -1,1 +1,3 @@
 # loadofsqli
+
+loadofsqliを解いていく．
